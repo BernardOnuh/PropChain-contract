@@ -26,8 +26,6 @@ Thumbs.db
 logs/
 
 # Environment
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -134,3 +132,4 @@ rustfmt.toml.backup
 # Local configuration
 config/
 local.toml
+config.bat

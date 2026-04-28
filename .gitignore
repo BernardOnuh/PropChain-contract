@@ -26,8 +26,6 @@ Thumbs.db
 logs/
 
 # Environment
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -139,3 +137,4 @@ plan.md
 
 # Codex CLI artifacts
 .codex
+config.bat
